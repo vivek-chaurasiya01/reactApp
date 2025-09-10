@@ -6,7 +6,6 @@ function Dashoboard() {
       <h1>Hello Coders</h1>
       <h4>This is Ayush</h4>
       <h5>Hello New Changes </h5>
-      <h2>Hello This is changes with ayush</h2>
     </div>
   );
 }
